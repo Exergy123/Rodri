@@ -1,5 +1,4 @@
-....................
-Humanoides que han servido de inspiración para este proyecto:
+### Humanoides que han servido de inspiración para este proyecto:
 
 • Aliexpress Humanoid Robot 17dof, Servos: MG996R
 • Aliexpress Humanoid Robot 17dof, Servos: RDS3115
@@ -10,7 +9,7 @@ Humanoides que han servido de inspiración para este proyecto:
 • RX1 Humanoid by Red Rabbit Robotics and Lingkang Zhang Feetech STS3215, Servos: (30kg.cm version)
 
 
-## Others:
+### Others:
 
 • BRUCE Open-Source Project 
 • iCub - Humanoid Platform  
