@@ -8,11 +8,11 @@ x16 Servo MG996R
 ....................
 Humanoides que han servido de inspiración para este proyecto:
 
-Humanoid Robot 17dof, Servos: MG996R
+*Humanoid Robot 17dof, Servos: MG996R
 
-Humanoid Robot 17dof, Servos: RDS3115
+*Humanoid Robot 17dof, Servos: RDS3115
 
-RoboPrime 21dof, Servos: MG90S
+*RoboPrime 21dof, Servos: MG90S
 
 Poppy Humanoid by poppy_project, Servos: Dynamixel
 
